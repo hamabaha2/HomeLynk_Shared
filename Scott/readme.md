@@ -28,6 +28,15 @@ They included 4 main units, 1 ESP01 relay, 1 Sonoff Relay, and 1 Tasmota-compati
     <tr>
         <td>All 3 light in squence</td>
         <td>Hub is in clear mode, deleting switches</td>
+    </tr>
+    <tr>
+        <td>n Green blink(s)</td>
+        <td>Indicating number of switches paired and online</td>
+    </tr>
+    <tr>
+        <td>n Red blink(s)</td>
+        <td>indicating number of paired switches but offline</td>
+    </tr>
 </table>
 <h3>ESP01 Switch</h3>
 <table>
