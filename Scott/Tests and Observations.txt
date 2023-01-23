@@ -1,7 +1,12 @@
-This is a text
-  1) Trying to put stuff here
-  - Bullet points
-    - other points
-  - back to this one
-  2) Sounds good.
-Goodbye
+Observations:
+- Logic on the LocalBytes is not correct. The device does NOT default to off.
+- The logic on Hub5 is reversed, opposite to Hub3.
+
+Tests:
+  - Pairing of ESP01 and Hub3 was successful.
+    - Testing a 220v Earthed Cable was successful when Hub was on Computer USB.
+    - Testing a 220v Earthed Cable was unsuccessful when Hub was on main power + isolator. The unit would not sense the voltage unlesss wrapped in a certain angle.**
+  - Pairing of Hub5 and LocalBytes is evident. LocalBytes, however, needs manual intervention everytime to get it paired.
+    - Testing a 220v Earthed Cable was successful when on Computer USB, BUT, the logic is opposite (Off when power is ON and vice versa).
+    - Testing a 220v Earthed Cable was unsuccessful when Hub was on main power + isolator. The unit would switch between on and off regardless of cable status.
+    
