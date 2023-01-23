@@ -45,5 +45,12 @@ They included 4 main units, 1 ESP01 relay, 1 Sonoff Relay, and 1 Tasmota-compati
 </table>
 <hr>
 <h2>Pairing:</h2>
+<h3>Main Unit:</h3>
+<p>The main unit piars by pressing the button for t seconds (where 0.5s &lt t &lt 2s).<br>When this is pressed, the main unit enters <i>Pairing</i> mode for 30 seconds. During that, the blue LED flashes quickly.During the <i>pairing</i> mode, the hub will add any switch that is also in pairing mode.<br>
+If the button is pressed for more than 2 seconds, it will enter <i>clear</i> mode, erasing all paired switches. During that mode, all 3 LEDs will light up in sequence.</p>
+<h3>ESP01 Switches:</h3>
+<p>
+
+
 
 
