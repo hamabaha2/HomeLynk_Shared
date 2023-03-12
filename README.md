@@ -1,4 +1,4 @@
-<h1>Below is the information on the pin configuration and files</h1>
+<h1>Information on the pin configuration and files</h1>
 <p1>
 File MainUnitCode_C
 
