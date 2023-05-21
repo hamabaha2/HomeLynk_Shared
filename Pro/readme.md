@@ -1,6 +1,6 @@
 <h1>HomeLynk Pro</h1>
 <p>Contents of this folder are about the second product, HomeLynk Pro, which contains relay capability and contact-based sensing</p>
-<p2>Pin Configuration<br>
+<h2>Pin Configuration<br></h2>
   <ul>
     <li>GPIO00 - Reset Pin</li>
     <li>GPIO09 - Control signal</li>
