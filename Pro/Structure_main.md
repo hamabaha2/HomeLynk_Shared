@@ -4,11 +4,11 @@
     <li>Setup:</li>
     <li>loop:</li>
     <li>Wifi:
-    <ul>Different Wifi Functions:
+    <ul> Different Wifi Functions:
         <li>Wifi mode
         <li>Client Setup
         <li>AP setup
-    </li>
+    </ul>
     <li>Pairing:</li>
     <li>SetupMode:</li>
     <li>ESPmessage:</li>
